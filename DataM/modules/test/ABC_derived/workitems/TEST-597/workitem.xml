@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="created">2020-04-14 22:58:14.059 +0530</field>
+    <field id="description" text-type="text/html">&lt;p style="margin-left: 160px;"&gt;&lt;span style="font-style: italic;font-family: 'Times New Roman', Times, serif;color: #FF0000;"&gt;Comment:&lt;/span&gt;&lt;span style="font-style: italic;font-family: 'Times New Roman', Times, serif;color: #FF0000;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Example &lt;/span&gt;&lt;span style="font-style: italic;font-family: 'Times New Roman', Times, serif;color: #FF0000;"&gt;CES_Cond&lt;/span&gt;&lt;span style="font-style: italic;font-family: 'Times New Roman', Times, serif;color: #FF0000;"&gt;ition&lt;/span&gt;&lt;span style="font-style: italic;font-family: 'Times New Roman', Times, serif;color: #FF0000;"&gt;al&lt;/span&gt;&lt;span style="font-style: italic;font-family: 'Times New Roman', Times, serif;color: #FF0000;"&gt; Comment 4&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="revision">105</item>
+                <item id="role">derived_from</item>
+                <item id="workItem">testProject01$TEST-407</item>
+            </struct>
+        </list>
+    </field>
+    <field id="priority">50.0</field>
+    <field id="severity">should_have</field>
+    <field id="status">draft</field>
+    <field id="type">epic</field>
+</work-item>

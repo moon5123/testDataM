@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="created">2020-04-14 22:58:34.543 +0530</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="revision">105</item>
+                <item id="role">derived_from</item>
+                <item id="workItem">testProject01$TEST-417</item>
+            </struct>
+        </list>
+    </field>
+    <field id="priority">50.0</field>
+    <field id="severity">should_have</field>
+    <field id="status">open</field>
+    <field id="title">Inserting Captions</field>
+    <field id="type">heading</field>
+</work-item>

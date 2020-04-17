@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="created">2020-04-14 15:29:45.201 +0530</field>
+    <field id="description" text-type="text/html">&lt;p style="text-align: right;margin-left: 40px;"&gt;&lt;span class="polarion-rte-formula" data-inline="false" data-source="V=\frac{\left(0.24\right)(DL-DV)^{0.5}}{(\left(DV\right)\left(C\right))^{0.5}}"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: right;margin-left: 80px;"&gt;&lt;span style="font-style: italic;font-size: 11pt;color: #0050AA;"&gt;Equation &lt;/span&gt;&lt;span style="font-style: italic;font-size: 11pt;color: #0050AA;"&gt;&lt;/span&gt;&lt;span style="font-style: italic;font-size: 11pt;color: #0050AA;"&gt;&lt;span class="polarion-rte-caption" data-sequence="Equation"&gt;#&lt;/span&gt;&lt;/span&gt;&lt;span style="font-style: italic;font-size: 11pt;color: #0050AA;"&gt;&lt;/span&gt;&lt;span style="font-style: italic;font-size: 11pt;color: #0050AA;"&gt;&lt;/span&gt;&lt;span style="font-style: italic;font-size: 11pt;color: #0050AA;"&gt;&lt;/span&gt;&lt;span style="font-style: italic;font-size: 11pt;color: #0050AA;"&gt;: (Style: &lt;/span&gt;&lt;span style="font-style: italic;font-size: 11pt;color: #0050AA;"&gt;CES_Equation&lt;/span&gt;&lt;span style="font-style: italic;font-size: 11pt;color: #0050AA;"&gt; Caption)&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="revision">86</item>
+                <item id="role">derived_from</item>
+                <item id="workItem">testProject01$TEST-428</item>
+            </struct>
+        </list>
+    </field>
+    <field id="priority">50.0</field>
+    <field id="reqType" type="enum:reqtype">other</field>
+    <field id="severity">should_have</field>
+    <field id="status">draft</field>
+    <field id="type">requirement</field>
+</work-item>

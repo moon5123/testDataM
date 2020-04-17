@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="categories">
+        <list>
+            <item>authentication</item>
+        </list>
+    </field>
+    <field id="created">2020-04-14 15:28:46.821 +0530</field>
+    <field id="description" text-type="text/html">&lt;p style="margin-left: 80px;"&gt;&lt;span style="font-weight: bolder;font-style: italic;font-size: 11pt;"&gt;Note:&lt;/span&gt;&lt;span style="font-style: italic;font-size: 11pt;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Notes are often added to requirements for additional explanation that are not necessarily a requirement. In the &lt;/span&gt;&lt;span style="font-style: italic;font-size: 11pt;"&gt;future,(&lt;/span&gt;&lt;span style="font-style: italic;font-size: 11pt;"&gt;Polarion&lt;/span&gt;&lt;span style="font-style: italic;font-size: 11pt;"&gt;) these notes may begin to be incorporated into the requirements themselves.&lt;/span&gt;&lt;/p&gt;</field>
+    <field id="linkedWorkItems">
+        <list>
+            <struct>
+                <item id="revision">86</item>
+                <item id="role">derived_from</item>
+                <item id="suspect">true</item>
+                <item id="workItem">testProject01$TEST-401</item>
+            </struct>
+        </list>
+    </field>
+    <field id="priority">50.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="type">issue</field>
+</work-item>
